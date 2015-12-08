@@ -8,7 +8,7 @@ m = length(y); % number of training examples
 
 % returns the following variable
 J = 0;
-
+ 
 % ====================== === ======================
 % Compute the cost of a particular choice of theta
 % Set J to the cost.
