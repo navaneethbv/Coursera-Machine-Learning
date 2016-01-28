@@ -5,7 +5,7 @@ function [J, grad] = costFunction(theta, X, y)
 %   w.r.t. to the parameters.
 
 % Initialize some useful values
-m = length(y); % number of training examples
+m = length(y); % number of training examples 
 
 % J is the cost
 J = 0;
