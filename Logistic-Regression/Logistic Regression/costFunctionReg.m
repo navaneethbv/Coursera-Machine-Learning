@@ -8,7 +8,7 @@ function [J, grad] = costFunctionReg(theta, X, y, lambda)
 m = length(y); % number of training examples
  
 % You need to return the following variables correctly  
-J = 0;
+J = 0; 
 grad = zeros(size(theta));
 
 % ====================== YOUR CODE HERE ======================
